@@ -15,8 +15,8 @@
     Human Resources Management System
 </h3>
 <hr>
-<form action="">
-    <table>
+<form action="control.jsp">
+    <table align="center">
         <tr>
             <td>
                 Account:
